@@ -102,7 +102,7 @@ The technical project will be due at 8:00 am PDT on Saturday, September 19th. Cl
 
 ### **When is the assessment due?**
 
-Please submit your exercise within four (4) days of receiving it. If you need extra time please reach out to your recruiting specialist.
+Please submit your exercise by 8:00 am PDT on Saturday, September 19th.
 
 ### **Which browsers should I support?**
 
