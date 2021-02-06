@@ -102,7 +102,7 @@ The technical project will be due at 11:59:59 pm PT on Sunday, Febuary 7th.
 
 ### **When is the assessment due?**
 
-Please submit your exercise by 8:00 am PDT on Saturday, September 19th.
+Please submit your exercise by 11:59:59 pm PT on Sunday, Febuary 7th.
 
 ### **Which browsers should I support?**
 
